@@ -1,0 +1,2 @@
+jspServletControllerFakeDB
+jsp witha servlet controller without beans. the servlet calls a businessDelegate with a FakeDB
